@@ -1,0 +1,326 @@
+Friday 1st of September 2017 02:00:18 PM 172.17.204.45 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'TELEFONIA_ASISTIDA_(_CALL_CENTER_)_CALL_CENTER_INFRAESTRUCTURA_SIEBEL8_CIUDAD_DE_LOS_VALLE_APP_S.O' AND "nombre_elemento" = 'VS3K_SIBL-APP'
+Friday 1st of September 2017 02:00:31 PM 172.17.204.45 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'TELEFONIA_ASISTIDA_(_CALL_CENTER_)_CALL_CENTER_INFRAESTRUCTURA_SIEBEL8_CIUDAD_DE_LOS_VALLE_APP_S.O' AND "nombre_elemento" = 'VS3K_SIBL-APPI'
+Friday 1st of September 2017 02:01:57 PM 172.17.204.45 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'TELEFONIA_ASISTIDA_(_CALL_CENTER_)_CALL_CENTER_INFRAESTRUCTURA_SIEBEL8_CIUDAD_DE_LOS_VALLE_GATEWAY_S.O' AND "nombre_elemento" = 'VS3K_SIBL-GWAY'
+Friday 1st of September 2017 02:02:15 PM 172.17.204.45 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'TELEFONIA_ASISTIDA_(_CALL_CENTER_)_CALL_CENTER_INFRAESTRUCTURA_SIEBEL8_CIUDAD_DE_LOS_VALLE_GATEWAY_S.O' AND "nombre_elemento" = 'VS3K_SIBL-GWAYI'
+Friday 1st of September 2017 02:04:00 PM 172.17.204.45 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'TELEFONIA_ASISTIDA_(_CALL_CENTER_)_CALL_CENTER_INFRAESTRUCTURA_SIEBEL8_CIUDAD_DE_LOS_VALLE_WEBSERVICE_IIS' AND "nombre_elemento" = 'VS3K_SIBL-WEB_IIS'
+Friday 1st of September 2017 02:04:11 PM 172.17.204.45 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'TELEFONIA_ASISTIDA_(_CALL_CENTER_)_CALL_CENTER_INFRAESTRUCTURA_SIEBEL8_CIUDAD_DE_LOS_VALLE_WEBSERVICE_IIS' AND "nombre_elemento" = 'VS3K_SIBL-WEBI_IIS'
+Friday 1st of September 2017 02:04:23 PM 172.17.204.45 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'TELEFONIA_ASISTIDA_(_CALL_CENTER_)_CALL_CENTER_INFRAESTRUCTURA_SIEBEL8_CIUDAD_DE_LOS_VALLE_WEBSERVICE_S.O' AND "nombre_elemento" = 'VS3K_SIBL-WEB'
+Friday 1st of September 2017 02:04:32 PM 172.17.204.45 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'TELEFONIA_ASISTIDA_(_CALL_CENTER_)_CALL_CENTER_INFRAESTRUCTURA_SIEBEL8_CIUDAD_DE_LOS_VALLE_WEBSERVICE_S.O' AND "nombre_elemento" = 'VS3K_SIBL-WEBI'
+Monday 4th of September 2017 12:52:52 PM 172.17.204.45 
+delete from "servicios"."transaccion" where "nombre_producto" = 'ATM_Y_AUTOSERVICIO_ATM_EXPERIENCIA_USUARIA_MASIVO_PERSONAS_TODOS_LOS_PRODUCTOS' AND "nombre_transaccion" = 'ATM_Y_AUTOSERVICIO_ATM_EXPERIENCIA_USUARIA_MASIVO_PERSONAS_TODOS_LOS_PRODUCTOS_SERVICIO_DEPOSITO' No se pudo eliminar el registro, revise las relaciones en niveles inferiores
+Monday 4th of September 2017 01:03:57 PM 172.17.204.45 
+delete from "servicios"."transaccion" where "nombre_producto" = 'CAJA_VECINA_COMERCIO_OPERADOR_-__(POS)_EXPERIENCIA_USUARIA_MASIVO_PERSONAS_TODOS_LOS_PRODUCTOS' AND "nombre_transaccion" = 'CAJA_VECINA_COMERCIO_OPERADOR_-__(POS)_EXPERIENCIA_USUARIA_MASIVO_PERSONAS_TODOS_LOS_PRODUCTOS_SERVICIO_DESPOSITO'
+Monday 4th of September 2017 01:03:57 PM 172.17.204.45 
+Se ha eliminado el registro
+Friday 13th of October 2017 10:50:08 AM 172.17.204.238 
+delete from "servicios"."transaccion" where "nombre_producto" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_EXPERIENCIA_USUARIA_NUEVA_BANCA_EN_LINEA_PERSONAS_PERSONAS_PAGOS' AND "nombre_transaccion" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_EXPERIENCIA_USUARIA_NUEVA_BANCA_EN_LINEA_PERSONAS_PERSONAS_PAGOS_DESPLIEGA_PAGOS'
+Friday 13th of October 2017 10:50:08 AM 172.17.204.238 
+Se ha eliminado el registro
+Friday 13th of October 2017 11:00:08 AM 172.17.204.238 
+delete from "servicios"."producto" where "nombre_segmento" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_EXPERIENCIA_USUARIA_NUEVA_BANCA_EN_LINEA_PERSONAS_PERSONAS' AND "nombre_producto" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_EXPERIENCIA_USUARIA_NUEVA_BANCA_EN_LINEA_PERSONAS_PERSONAS_TRANSFERENCIAS_CUENTAS_PROPIAS'
+Friday 13th of October 2017 11:00:08 AM 172.17.204.238 
+Se ha eliminado el registro
+Friday 13th of October 2017 12:25:28 PM 172.17.204.238 
+delete from "servicios"."producto" where "nombre_segmento" = 'WEB_MAYORISTA_BANCA_EN_LINEA_EMPRESA_EXPERIENCIA_USUARIA_BL__EMPRESA_MAYORISTA' AND "nombre_producto" = 'WEB_MAYORISTA_BANCA_EN_LINEA_EMPRESA_EXPERIENCIA_USUARIA_BL__EMPRESA_MAYORISTA_CONSULTA_DE_SALDO_CUENTAS'
+Friday 13th of October 2017 12:25:28 PM 172.17.204.238 
+Se ha eliminado el registro
+Monday 16th of October 2017 12:31:22 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'WEB_MAYORISTA_BANCA_EN_LINEA_EMPRESA_EXPERIENCIA_USUARIA_BL__EMPRESA_MAYORISTA_CUENTA_CORRIENTE_CONSULTA_CARTOLA_HISTORICA' AND "nombre_operacion" = 'DESPLIEGA_CONCILIACIóN_BANCARIA'
+Monday 16th of October 2017 04:14:58 PM 172.17.204.238 
+delete from "servicios"."transaccion" where "nombre_producto" = 'WEB_MAYORISTA_BANCA_EN_LINEA_EMPRESA_EXPERIENCIA_USUARIA_BL__EMPRESA_MAYORISTA_PAGOS' AND "nombre_transaccion" = 'WEB_MAYORISTA_BANCA_EN_LINEA_EMPRESA_EXPERIENCIA_USUARIA_BL__EMPRESA_MAYORISTA_PAGOS_DESPLIEGA_CONVENIOS'
+Monday 16th of October 2017 04:14:58 PM 172.17.204.238 
+Se ha eliminado el registro
+Tuesday 17th of October 2017 04:29:14 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'WEB_MAYORISTA_BANCA_EN_LINEA_EMPRESA_EXPERIENCIA_USUARIA_BL__EMPRESA_MAYORISTA_TRANSFERENCIA_DE_FONDOS_TRANSFERENCIAS__MISMO_BANCO' AND "nombre_operacion" = 'DESPLIEGA_CONFIRMACIóN_TEF_OTROS_RUT_BANCOESTADO'
+Tuesday 17th of October 2017 04:30:47 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'WEB_MAYORISTA_BANCA_EN_LINEA_EMPRESA_EXPERIENCIA_USUARIA_BL__EMPRESA_MAYORISTA_TRANSFERENCIA_DE_FONDOS_TRANSFERENCIAS_CUENTAS_PROPIAS' AND "nombre_operacion" = 'DESPLIEGA_CONFIRMACIóN_TEF_CUENTAS_PROPIAS'
+Tuesday 17th of October 2017 04:31:39 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'WEB_MAYORISTA_BANCA_EN_LINEA_EMPRESA_EXPERIENCIA_USUARIA_BL__EMPRESA_MAYORISTA_TRANSFERENCIA_DE_FONDOS_TRANSFERENCIAS_OTROS_BANCO' AND "nombre_operacion" = 'DESPLIEGA_CONFIRMACIóN_TEF_OTROS_BANCOS'
+Tuesday 17th of October 2017 04:32:59 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'WEB_MAYORISTA_BANCA_EN_LINEA_EMPRESA_EXPERIENCIA_USUARIA_BL__EMPRESA_MAYORISTA_TRANSFERENCIA_DE_FONDOS_TEF_ALTO_VALOR_BANCO_ESTADO' AND "nombre_operacion" = 'DESPLIEGA_PREPARACIóN_TAV_MISMO_BANCO'
+Tuesday 17th of October 2017 04:34:09 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'WEB_MAYORISTA_BANCA_EN_LINEA_EMPRESA_EXPERIENCIA_USUARIA_BL__EMPRESA_MAYORISTA_TRANSFERENCIA_DE_FONDOS_TEF_ALTO_VALOR_OTROS_BANCOS' AND "nombre_operacion" = 'DESPLIEGA_PREPARACIóN_TAV_OTROS_BANCOS'
+Tuesday 17th of October 2017 04:34:59 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'WEB_MAYORISTA_BANCA_EN_LINEA_EMPRESA_EXPERIENCIA_USUARIA_BL__EMPRESA_MAYORISTA_TRANSFERENCIA_DE_FONDOS_TRANSFERENCIAS_CUENTAS_PROPIAS' AND "nombre_operacion" = 'DESPLIEGA_PREPARACIóN_TEF_CUENTAS_PROPIAS'
+Tuesday 17th of October 2017 04:35:48 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'WEB_MAYORISTA_BANCA_EN_LINEA_EMPRESA_EXPERIENCIA_USUARIA_BL__EMPRESA_MAYORISTA_TRANSFERENCIA_DE_FONDOS_TRANSFERENCIAS__MISMO_BANCO' AND "nombre_operacion" = 'DESPLIEGA_PREPARACIóN_TEF_OTROS_RUT_BANCOESTADO'
+Tuesday 17th of October 2017 04:36:31 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'WEB_MAYORISTA_BANCA_EN_LINEA_EMPRESA_EXPERIENCIA_USUARIA_BL__EMPRESA_MAYORISTA_TRANSFERENCIA_DE_FONDOS_TRANSFERENCIAS_OTROS_BANCO' AND "nombre_operacion" = 'DESPLIEGA_PREPARACIóN_TEF_OTROS_BANCOS'
+Wednesday 18th of October 2017 09:36:24 AM 172.17.204.238 
+delete from "servicios"."agrupacion" where "nombre_tipo_servicio" = 'WEB_MINORISTA_BL_BANCA_EN_LINEA_EXPERIENCIA_USUARIA' AND "nombre_agrupacion" = 'WEB_MINORISTA_BL_BANCA_EN_LINEA_EXPERIENCIA_USUARIA_BANCA_EN_LINEA__PERSONA' No se pudo eliminar el registro, revise las relaciones en niveles inferiores
+Wednesday 18th of October 2017 09:38:34 AM 172.17.204.238 
+delete from "servicios"."agrupacion" where "nombre_tipo_servicio" = 'WEB_MINORISTA_BL_BANCA_EN_LINEA_EXPERIENCIA_USUARIA' AND "nombre_agrupacion" = 'WEB_MINORISTA_BL_BANCA_EN_LINEA_EXPERIENCIA_USUARIA_BANCA_EN_LINEA__PERSONAS'
+Wednesday 18th of October 2017 09:38:34 AM 172.17.204.238 
+Se ha eliminado el registro
+Wednesday 18th of October 2017 10:27:56 AM 172.17.204.238 
+delete from "servicios"."producto" where "nombre_segmento" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS' AND "nombre_producto" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_ENROLAMIENTO'
+Wednesday 18th of October 2017 10:27:56 AM 172.17.204.238 
+Se ha eliminado el registro
+Thursday 19th of October 2017 10:07:20 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_PAGOS:_EMISION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_INICIO'
+Thursday 19th of October 2017 10:07:56 AM 172.17.204.238 
+delete from "servicios"."transaccion" where "nombre_producto" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT' AND "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_PAGOS:_EMISION_DE_PAGO'
+Thursday 19th of October 2017 10:07:56 AM 172.17.204.238 
+Se ha eliminado el registro
+Thursday 19th of October 2017 10:22:27 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_PAGOS_EMISION_DE_PAGO' AND "nombre_operacion" = 'PAGOS_RECEPCION_DE_PAGO'
+Thursday 19th of October 2017 10:30:56 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_SALDO_Y_ULTIMOS_MOVIMIENTOS' AND "nombre_operacion" = 'DESPLIEGA_MENSAJE'
+Thursday 19th of October 2017 10:31:25 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_SALDO_Y_ULTIMOS_MOVIMIENTOS' AND "nombre_operacion" = 'DESPLIEGA_MENU_NOTIFICACIONES'
+Monday 23rd of October 2017 04:14:06 PM 172.17.204.45 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'SAC(MESON)_ESCRITORIO_DE_NEGOCIO_INFRAESTRUCTURA_CAPA_DE_PRESENTACION_MORANDE_APLICACION_PU_S.O' AND "nombre_elemento" = 'VS2K8-CHFILES01'
+Monday 23rd of October 2017 04:14:29 PM 172.17.204.45 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'SAC(MESON)_ESCRITORIO_DE_NEGOCIO_INFRAESTRUCTURA_CAPA_DE_PRESENTACION_MORANDE_APLICACION_PU_S.O' AND "nombre_elemento" = 'VS2K8-CHFILES02'
+Monday 23rd of October 2017 04:48:38 PM 172.17.204.45 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'TELEFONIA_ASISTIDA_(_CALL_CENTER_)_CALL_CENTER_INFRAESTRUCTURA_SIEBEL8_KENO_APP_S.O' AND "nombre_elemento" = 'VS3K_SIBL-APP3'
+Thursday 2nd of November 2017 05:34:23 PM 172.17.204.45 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'INTRANET_SISTEMA_ÚNICO_DE_NORMAS_(SUN)_INFRAESTRUCTURA_CAPA_DE_PRESENTACION_KENOS_FRONT_END_S.O' AND "nombre_elemento" = 'VSK12-SHPCFE1K'
+Thursday 16th of November 2017 09:42:34 AM 172.17.204.208 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'SAC(MESON)_PLATAFORMA_UNIVERSAL_INFRAESTRUCTURA_CAPA_DE_PRESENTACION_MORANDE_APLICACION_PU_S.O' AND "nombre_elemento" = 'VS3K-PU12}'
+Wednesday 29th of November 2017 05:33:31 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_ENROLAMIENTO' AND "nombre_operacion" = 'CONFIRMA_ENROLAMIENTO'
+Wednesday 29th of November 2017 05:33:47 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_ENROLAMIENTO' AND "nombre_operacion" = 'DESPLIEGA_ACTIVAR_APP_PASO_3'
+Wednesday 29th of November 2017 05:33:57 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_ENROLAMIENTO' AND "nombre_operacion" = 'DESPLIEGA_TARJETA_CLAVE_TRANSFERENCIAS'
+Wednesday 29th of November 2017 05:34:31 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_ENROLAMIENTO' AND "nombre_operacion" = 'DESPLIEGA_ACTIVAR_APP_PASO_2'
+Wednesday 29th of November 2017 05:34:41 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_ENROLAMIENTO' AND "nombre_operacion" = 'DESPLIEGA_CLAVE_INTERNET'
+Wednesday 29th of November 2017 05:34:52 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_ENROLAMIENTO' AND "nombre_operacion" = 'DESPLIEGA_ACTIVAR_APP_PASO_1'
+Wednesday 29th of November 2017 05:35:03 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_ENROLAMIENTO' AND "nombre_operacion" = 'SELECCIONA_PAGORUT'
+Wednesday 29th of November 2017 05:35:40 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_ENROLAMIENTO' AND "nombre_operacion" = 'DESPLIEGA_INICIO'
+Wednesday 29th of November 2017 05:35:52 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_ENROLAMIENTO' AND "nombre_operacion" = 'DESPLIEGA_PANTALLA_INFORMATIVA'
+Wednesday 29th of November 2017 05:36:05 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_ENROLAMIENTO' AND "nombre_operacion" = 'DESCARGA_APP'
+Wednesday 29th of November 2017 05:37:09 PM 172.17.204.238 
+delete from "servicios"."transaccion" where "nombre_producto" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT' AND "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_ENROLAMIENTO' No se pudo eliminar el registro, revise las relaciones en niveles inferiores
+Wednesday 29th of November 2017 05:44:09 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_NOTIFICACIONES' AND "nombre_operacion" = 'DESPLIEGA_MENSAJE'
+Wednesday 29th of November 2017 05:44:43 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_NOTIFICACIONES' AND "nombre_operacion" = 'DESPLIEGA_INICIO'
+Wednesday 29th of November 2017 05:44:51 PM 172.17.204.238 
+delete from "servicios"."transaccion" where "nombre_producto" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT' AND "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_NOTIFICACIONES' No se pudo eliminar el registro, revise las relaciones en niveles inferiores
+Wednesday 29th of November 2017 05:48:21 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_SALDO_Y_ULTIMOS_MOVIMIENTOS' AND "nombre_operacion" = 'DESPLIEGA_SALDO_Y_MOVIMIENTOS'
+Wednesday 29th of November 2017 05:50:48 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_SALDO_Y_ULTIMOS_MOVIMIENTOS' AND "nombre_operacion" = 'DESPLIEGA_SALDORUT'
+Wednesday 29th of November 2017 05:50:59 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_SALDO_Y_ULTIMOS_MOVIMIENTOS' AND "nombre_operacion" = 'DESPLIEGA_INICIAR_SESION'
+Wednesday 29th of November 2017 05:51:10 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_SALDO_Y_ULTIMOS_MOVIMIENTOS' AND "nombre_operacion" = 'DESPLIEGA_INICIO'
+Thursday 30th of November 2017 10:17:24 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_PAGOS_EMISION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_CODIGO_NUMERICO'
+Thursday 30th of November 2017 10:17:54 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_PAGOS_RECEPCION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_PASO_3_RECIBIR_PAGO'
+Thursday 30th of November 2017 10:18:23 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_PAGOS_EMISION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_PASO_2_PAGAR'
+Thursday 30th of November 2017 10:18:52 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_PAGOS_RECEPCION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_PASO_1_RECIBIR_PAGO'
+Thursday 30th of November 2017 10:19:31 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_PAGOS_RECEPCION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_PAGORUT'
+Thursday 30th of November 2017 10:23:17 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_PAGOS_EMISION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_INICIAR_SESION'
+Thursday 30th of November 2017 10:24:54 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_PAGOS_RECEPCION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_INICIAR_SESION'
+Thursday 30th of November 2017 10:27:31 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_PAGOS_RECEPCION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_INICIO'
+Thursday 30th of November 2017 10:28:18 AM 172.17.204.238 
+delete from "servicios"."transaccion" where "nombre_producto" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT' AND "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_PAGOS_RECEPCION_DE_PAGO'
+Thursday 30th of November 2017 10:28:18 AM 172.17.204.238 
+Se ha eliminado el registro
+Thursday 30th of November 2017 10:29:53 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_PAGOS_EMISION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_PASO_3_PAGAR'
+Thursday 30th of November 2017 10:36:39 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CONTENEDORA_ENROLAMIENTO' AND "nombre_operacion" = 'DESPLIEGA_ACTIVAR_APP_PASO_2'
+Thursday 30th of November 2017 10:40:35 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_PAGOS_EMISION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_PASO_1_PAGAR'
+Thursday 30th of November 2017 10:41:06 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_PAGOS_EMISION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_MENU_PAGORUT'
+Thursday 30th of November 2017 10:46:41 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_PAGOS_EMISION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_INICIO'
+Thursday 30th of November 2017 10:48:17 AM 172.17.204.238 
+delete from "servicios"."transaccion" where "nombre_producto" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT' AND "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_PAGOS_EMISION_DE_PAGO'
+Thursday 30th of November 2017 10:48:17 AM 172.17.204.238 
+Se ha eliminado el registro
+Thursday 30th of November 2017 10:50:59 AM 172.17.204.238 
+delete from "servicios"."transaccion" where "nombre_producto" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT' AND "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_SALDO_Y_ULTIMOS_MOVIMIENTOS'
+Thursday 30th of November 2017 10:50:59 AM 172.17.204.238 
+Se ha eliminado el registro
+Thursday 30th of November 2017 10:56:52 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'WEB_MINORISTA_NBM_NUEVA_BANCA_MOVIL_EXPERIENCIA_USUARIA_NUEVA_BANCA_MOVIL_PERSONAS_PERSONAS_CUENTA_RUT_CONSULTA_DE_SALDO_CUENTA_RUT' AND "nombre_operacion" = 'DESPLIEGA_MENSAJE'
+Thursday 30th of November 2017 10:57:29 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_NOTIFICACIONES' AND "nombre_operacion" = 'DESPLIEGA_MENU_NOTIFICACIONES'
+Thursday 30th of November 2017 10:58:15 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_NOTIFICACIONES' AND "nombre_operacion" = 'DESPLIEGA_INICIAR_SESION'
+Thursday 30th of November 2017 10:59:17 AM 172.17.204.238 
+delete from "servicios"."transaccion" where "nombre_producto" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT' AND "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_NOTIFICACIONES'
+Thursday 30th of November 2017 10:59:17 AM 172.17.204.238 
+Se ha eliminado el registro
+Thursday 30th of November 2017 11:00:29 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_ENROLAMIENTO' AND "nombre_operacion" = 'SOLICITA_VALIDAR_CODIGO'
+Thursday 30th of November 2017 11:01:00 AM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_ENROLAMIENTO' AND "nombre_operacion" = 'CONFIRMA_ENVIO_E-MAIL'
+Thursday 30th of November 2017 11:01:18 AM 172.17.204.238 
+delete from "servicios"."transaccion" where "nombre_producto" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT' AND "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT_ENROLAMIENTO'
+Thursday 30th of November 2017 11:01:18 AM 172.17.204.238 
+Se ha eliminado el registro
+Monday 4th of December 2017 12:38:18 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_EXPERIENCIA_USUARIA_NUEVA_BANCA_EN_LINEA_PERSONAS_PERSONAS_PAGOS_PAGO_EN_LINEA_DE_SERVICIOS_(CONVENIO_BANCOESTADO)' AND "nombre_operacion" = 'INGRESA_CLAVE_DE_COORDENADAS_Y_DESPLIEGA_COMPROBANTE'
+Monday 4th of December 2017 12:38:28 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_EXPERIENCIA_USUARIA_NUEVA_BANCA_EN_LINEA_PERSONAS_PERSONAS_PAGOS_PAGO_EN_LINEA_DE_SERVICIOS_(CONVENIO_SERVIPAG)' AND "nombre_operacion" = 'INGRESA_CLAVE_DE_COORDENADAS_Y_DESPLIEGA_COMPROBANTE'
+Monday 4th of December 2017 12:38:44 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_EXPERIENCIA_USUARIA_NUEVA_BANCA_EN_LINEA_PERSONAS_PERSONAS_TRANSFERENCIAS_DE_FONDOS_TRANSFERENCIAS__MISMO_BANCO' AND "nombre_operacion" = 'INGRESA_CLAVE_DE_COORDENADAS_Y_DESPLIEGA_COMPROBANTE'
+Tuesday 5th of December 2017 05:57:22 PM 172.17.204.208 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'SAC(MESON)_PLATAFORMA_UNIVERSAL_INFRAESTRUCTURA_CAPA_DE_PRESENTACION_CIUDAD_DE_LOS_VALLE_APLICACION_PU_IIS' AND "nombre_elemento" = 'VS3K-PU019C_IIS'
+Tuesday 5th of December 2017 05:57:34 PM 172.17.204.208 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'SAC(MESON)_PLATAFORMA_UNIVERSAL_INFRAESTRUCTURA_CAPA_DE_PRESENTACION_CIUDAD_DE_LOS_VALLE_APLICACION_PU_IIS' AND "nombre_elemento" = 'VS3K-PU018C_IIS'
+Tuesday 5th of December 2017 05:57:43 PM 172.17.204.208 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'SAC(MESON)_PLATAFORMA_UNIVERSAL_INFRAESTRUCTURA_CAPA_DE_PRESENTACION_CIUDAD_DE_LOS_VALLE_APLICACION_PU_IIS' AND "nombre_elemento" = 'VS3K-PU017C_IIS'
+Tuesday 5th of December 2017 05:57:52 PM 172.17.204.208 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'SAC(MESON)_PLATAFORMA_UNIVERSAL_INFRAESTRUCTURA_CAPA_DE_PRESENTACION_CIUDAD_DE_LOS_VALLE_APLICACION_PU_IIS' AND "nombre_elemento" = 'VS3K-PU016C_IIS'
+Tuesday 5th of December 2017 05:58:01 PM 172.17.204.208 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'SAC(MESON)_PLATAFORMA_UNIVERSAL_INFRAESTRUCTURA_CAPA_DE_PRESENTACION_CIUDAD_DE_LOS_VALLE_APLICACION_PU_IIS' AND "nombre_elemento" = 'VS3K-PU015C_IIS'
+Tuesday 5th of December 2017 05:58:11 PM 172.17.204.208 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'SAC(MESON)_PLATAFORMA_UNIVERSAL_INFRAESTRUCTURA_CAPA_DE_PRESENTACION_CIUDAD_DE_LOS_VALLE_APLICACION_PU_IIS' AND "nombre_elemento" = 'VS3K-PU014C_IIS'
+Monday 18th of December 2017 10:09:58 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_KENO_CORREO_S.O' AND "nombre_elemento" = 'VSK12-EXM1MRD'
+Monday 18th of December 2017 10:10:08 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_KENO_CORREO_EXCHANGE' AND "nombre_elemento" = 'VSK12-EXM1MRD_EXCHANGE'
+Monday 18th of December 2017 10:10:20 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_KENO_CORREO_S.O' AND "nombre_elemento" = 'VSK12-EXM2MRD'
+Monday 18th of December 2017 10:10:32 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_KENO_CORREO_EXCHANGE' AND "nombre_elemento" = 'VSK12-EXM3MRD_EXCHANGE'
+Monday 18th of December 2017 10:10:44 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_KENO_CORREO_S.O' AND "nombre_elemento" = 'VSK12-EXM3MRD'
+Monday 18th of December 2017 10:10:56 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_KENO_CORREO_EXCHANGE' AND "nombre_elemento" = 'VSK12-EXM4MRD_EXCHANGE'
+Monday 18th of December 2017 10:11:09 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_KENO_CORREO_S.O' AND "nombre_elemento" = 'VSK12-EXM4MRD'
+Monday 18th of December 2017 10:11:25 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_KENO_CORREO_EXCHANGE' AND "nombre_elemento" = 'VSK12-EXM5MRD_EXCHANGE'
+Monday 18th of December 2017 10:11:38 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_KENO_CORREO_S.O' AND "nombre_elemento" = 'VSK12-EXM5MRD'
+Monday 18th of December 2017 10:11:53 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_KENO_CORREO_EXCHANGE' AND "nombre_elemento" = 'VSK12-EXM6MRD_EXCHANGE'
+Monday 18th of December 2017 10:12:05 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_KENO_CORREO_S.O' AND "nombre_elemento" = 'VSK12-EXM6MRD'
+Monday 18th of December 2017 10:12:17 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_KENO_CORREO_EXCHANGE' AND "nombre_elemento" = 'VSK12-EXM7MRD_EXCHANGE'
+Monday 18th of December 2017 10:12:31 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_KENO_CORREO_S.O' AND "nombre_elemento" = 'VSK12-EXM7MRD'
+Monday 18th of December 2017 10:12:44 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_KENO_CORREO_EXCHANGE' AND "nombre_elemento" = 'VSK12-EXM8MRD_EXCHANGE'
+Monday 18th of December 2017 10:13:02 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_KENO_CORREO_S.O' AND "nombre_elemento" = 'VSK12-EXM8MRD'
+Wednesday 20th of December 2017 09:01:16 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_BROKER' AND "nombre_elemento" = 'B1P035LNX'
+Wednesday 20th of December 2017 09:01:35 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_MQ' AND "nombre_elemento" = 'Q1P035LNX'
+Wednesday 20th of December 2017 09:01:50 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_S.O' AND "nombre_elemento" = 'LNXP035'
+Wednesday 20th of December 2017 09:02:07 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBM_NUEVA_BANCA_MOVIL_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_BROKER' AND "nombre_elemento" = 'B1PM035LN'
+Wednesday 20th of December 2017 09:02:20 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBM_NUEVA_BANCA_MOVIL_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_MQ' AND "nombre_elemento" = 'Q1PM035LN'
+Wednesday 20th of December 2017 09:02:42 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_BROKER' AND "nombre_elemento" = 'B1P135LNX'
+Wednesday 20th of December 2017 09:02:57 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_MQ' AND "nombre_elemento" = 'Q1P135LNX'
+Wednesday 20th of December 2017 09:03:17 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBM_NUEVA_BANCA_MOVIL_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_BROKER' AND "nombre_elemento" = 'B1PM135LN'
+Wednesday 20th of December 2017 09:03:28 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBM_NUEVA_BANCA_MOVIL_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_MQ' AND "nombre_elemento" = 'Q1PM135LN'
+Wednesday 20th of December 2017 09:03:38 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_S.O' AND "nombre_elemento" = 'LNXP135'
+Wednesday 20th of December 2017 09:03:53 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_BROKER' AND "nombre_elemento" = 'B1P0351LN'
+Wednesday 20th of December 2017 09:04:03 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_MQ' AND "nombre_elemento" = 'Q1P0351LN'
+Wednesday 20th of December 2017 09:04:13 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_S.O' AND "nombre_elemento" = 'LNXP0351'
+Wednesday 20th of December 2017 09:04:25 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_BROKER' AND "nombre_elemento" = 'B1P1351LN'
+Wednesday 20th of December 2017 09:04:34 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_MQ' AND "nombre_elemento" = 'Q1P1351LN'
+Wednesday 20th of December 2017 09:04:44 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_S.O' AND "nombre_elemento" = 'LNXP1351'
+Wednesday 20th of December 2017 09:04:58 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_GATEWAY_MQ_MQ' AND "nombre_elemento" = 'Q1PA35LNX'
+Wednesday 20th of December 2017 09:05:08 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBL_NUEVA_BANCA_EN_LINEA_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_GATEWAY_MQ_S.O' AND "nombre_elemento" = 'LNXPA35'
+Wednesday 20th of December 2017 09:05:29 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBM_NUEVA_BANCA_MOVIL_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_S.O' AND "nombre_elemento" = 'LNXPM035'
+Wednesday 20th of December 2017 09:05:40 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBM_NUEVA_BANCA_MOVIL_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_S.O' AND "nombre_elemento" = 'LNXPM135'
+Wednesday 20th of December 2017 09:05:51 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBM_NUEVA_BANCA_MOVIL_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_S.O' AND "nombre_elemento" = 'LNXPM235'
+Wednesday 20th of December 2017 09:06:03 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBM_NUEVA_BANCA_MOVIL_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_CMM_S.O' AND "nombre_elemento" = 'LNXPM335'
+Wednesday 20th of December 2017 09:06:16 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBM_NUEVA_BANCA_MOVIL_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_GATEWAYMQ_MQ' AND "nombre_elemento" = 'Q1PMA35LN'
+Wednesday 20th of December 2017 09:06:25 AM 172.17.204.238 
+delete from "servicios"."elemento" where "nombre_subcomponente" = 'WEB_MINORISTA_NBM_NUEVA_BANCA_MOVIL_INFRAESTRUCTURA_CAPA_DE_NEGOCIO_MORANDE_GATEWAYMQ_S.O' AND "nombre_elemento" = 'LNXPMA35'
+Wednesday 27th of December 2017 02:29:47 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS_PAGOS_RECEPCION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_PASO_3_RECIBIR_PAGO'
+Wednesday 27th of December 2017 02:30:16 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS_PAGOS_RECEPCION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_PASO_2_RECIBIR_PAGO'
+Wednesday 27th of December 2017 02:30:38 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS_PAGOS_RECEPCION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_CODIGO_NUMERICO'
+Wednesday 27th of December 2017 02:31:18 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS_PAGOS_RECEPCION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_PASO_1_RECIBIR_PAGO'
+Wednesday 27th of December 2017 02:31:51 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS_PAGOS_RECEPCION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_PAGORUT'
+Wednesday 27th of December 2017 02:33:48 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS_PAGOS_RECEPCION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_INICIAR_SESION'
+Wednesday 27th of December 2017 02:34:11 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS_PAGOS_RECEPCION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_INICIO'
+Wednesday 27th of December 2017 02:35:28 PM 172.17.204.238 
+delete from "servicios"."transaccion" where "nombre_producto" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS' AND "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS_PAGOS_RECEPCION_DE_PAGO'
+Wednesday 27th of December 2017 02:35:28 PM 172.17.204.238 
+Se ha eliminado el registro
+Wednesday 27th of December 2017 02:35:58 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS_PAGOS_EMISION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_PASO_3_PAGAR'
+Wednesday 27th of December 2017 02:36:15 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS_PAGOS_EMISION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_CODIGO_NUMERICO'
+Wednesday 27th of December 2017 02:36:31 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS_PAGOS_EMISION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_PASO_2_PAGAR'
+Wednesday 27th of December 2017 02:36:48 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS_PAGOS_EMISION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_PASO_1_PAGAR'
+Wednesday 27th of December 2017 02:37:02 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS_PAGOS_EMISION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_MENU_PAGORUT'
+Wednesday 27th of December 2017 02:37:26 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS_PAGOS_EMISION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_INICIAR_SESION'
+Wednesday 27th of December 2017 02:38:45 PM 172.17.204.238 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS_PAGOS_EMISION_DE_PAGO' AND "nombre_operacion" = 'DESPLIEGA_INICIO'
+Wednesday 27th of December 2017 02:39:05 PM 172.17.204.238 
+delete from "servicios"."transaccion" where "nombre_producto" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS' AND "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS_PAGOS_EMISION_DE_PAGO'
+Wednesday 27th of December 2017 02:39:05 PM 172.17.204.238 
+Se ha eliminado el registro
+Wednesday 27th of December 2017 02:39:43 PM 172.17.204.238 
+delete from "servicios"."producto" where "nombre_segmento" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS' AND "nombre_producto" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_CUENTA_RUT' No se pudo eliminar el registro, revise las relaciones en niveles inferiores
+Thursday 28th of December 2017 10:38:26 AM 172.17.204.238 
+delete from "servicios"."transaccion" where "nombre_producto" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_TODOS_LOS_PRODUCTOS' AND "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_TODOS_LOS_PRODUCTOS_DESPLIEGA_INICIAR_SESION'
+Thursday 28th of December 2017 10:38:26 AM 172.17.204.238 
+Se ha eliminado el registro
+Thursday 28th of December 2017 10:38:35 AM 172.17.204.238 
+delete from "servicios"."transaccion" where "nombre_producto" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_TODOS_LOS_PRODUCTOS' AND "nombre_transaccion" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_TODOS_LOS_PRODUCTOS_DESPLIEGA_INICIO'
+Thursday 28th of December 2017 10:38:35 AM 172.17.204.238 
+Se ha eliminado el registro
+Thursday 28th of December 2017 11:10:01 AM 172.17.204.238 
+delete from "servicios"."producto" where "nombre_segmento" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS' AND "nombre_producto" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS'
+Thursday 28th of December 2017 11:10:01 AM 172.17.204.238 
+Se ha eliminado el registro

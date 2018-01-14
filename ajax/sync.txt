@@ -1,0 +1,505 @@
+Thursday 31st of August 2017 05:04:03 PM 172.17.204.45 
+
+Friday 1st of September 2017 02:07:18 PM 172.17.204.45 
+
+Monday 4th of September 2017 12:35:41 PM 172.17.204.45 
+
+Monday 4th of September 2017 01:02:06 PM 172.17.204.45 
+
+Tuesday 5th of September 2017 09:52:36 AM 172.28.70.165 
+
+Tuesday 5th of September 2017 09:58:16 AM 172.28.70.165 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [19909].
+radshell> 
+Monday 2nd of October 2017 11:03:47 AM 172.28.70.147 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [19909].
+radshell> 
+Wednesday 4th of October 2017 09:32:38 AM 172.28.70.147 
+/monit/IBM/tivoli/tbsm
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [19909].
+radshell> 
+Wednesday 4th of October 2017 09:34:29 AM 172.28.70.147 
+/monit/IBM/tivoli/tbsm
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [19909].
+radshell> 
+Wednesday 4th of October 2017 09:38:32 AM 172.28.70.147 
+/monit/IBM/tivoli/tbsm
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [19909].
+radshell> 
+Wednesday 4th of October 2017 10:27:12 AM 172.28.70.147 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [19909].
+radshell> 
+Friday 6th of October 2017 03:03:01 PM 172.17.204.45 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [22914].
+radshell> 
+Friday 6th of October 2017 03:10:32 PM 172.28.70.147 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [22914].
+radshell> 
+Friday 6th of October 2017 03:11:47 PM 172.28.70.147 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [22914].
+radshell> 
+Thursday 12th of October 2017 05:12:08 PM 172.17.204.45 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [22914].
+radshell> 
+Thursday 12th of October 2017 05:12:30 PM 172.17.204.45 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [22914].
+radshell> 
+Thursday 12th of October 2017 05:12:51 PM 172.17.204.45 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [22914].
+radshell> 
+Thursday 12th of October 2017 05:13:12 PM 172.17.204.45 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [22914].
+radshell> 
+Monday 16th of October 2017 03:33:13 PM 172.28.70.147 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Tuesday 17th of October 2017 10:09:16 AM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Wednesday 18th of October 2017 09:31:38 AM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 19th of October 2017 02:30:04 PM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> // Error: // Uncaught Exception: TargetError : at Line: 1228 : in file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh : throw ex ; 
+
+Target exception: com.micromuse.sla.soap.RADSoapException: CTGBC0032E The instance named BANCOESTADO was not retrieved.
+
+radshell> 
+Friday 20th of October 2017 03:31:20 PM 172.17.204.90 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Monday 23rd of October 2017 04:15:06 PM 172.17.204.45 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Monday 23rd of October 2017 04:49:28 PM 172.17.204.45 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Monday 23rd of October 2017 05:27:28 PM 172.17.204.45 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 2nd of November 2017 05:39:52 PM 172.17.204.45 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Wednesday 8th of November 2017 11:57:59 AM 172.28.70.147 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Friday 10th of November 2017 01:07:08 PM 172.28.70.147 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 23rd of November 2017 09:50:01 AM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 23rd of November 2017 12:07:41 PM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Wednesday 29th of November 2017 05:56:44 PM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 30th of November 2017 10:14:28 AM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 30th of November 2017 10:20:08 AM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 30th of November 2017 10:25:39 AM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 30th of November 2017 10:28:44 AM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 30th of November 2017 10:47:12 AM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 30th of November 2017 10:50:05 AM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 30th of November 2017 10:59:43 AM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 30th of November 2017 11:04:17 AM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 30th of November 2017 11:22:54 AM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 30th of November 2017 11:36:54 AM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 30th of November 2017 12:03:43 PM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Tuesday 5th of December 2017 06:01:05 PM 172.17.204.208 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Wednesday 13th of December 2017 04:06:55 PM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Wednesday 27th of December 2017 10:14:31 AM 172.28.70.147 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 28th of December 2017 09:17:54 AM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 28th of December 2017 11:06:11 AM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Thursday 28th of December 2017 11:10:29 AM 172.17.204.238 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
+Wednesday 3rd of January 2018 12:03:18 PM 172.28.71.177 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
