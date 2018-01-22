@@ -503,3 +503,14 @@ Enter help(); for help and exit(); to exit.
 BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
 radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
 radshell> 
+Friday 19th of January 2018 10:02:21 AM 172.28.71.166 
+/monit/IBM/tivoli/tbsm
+Sincronizacion_Tablas_Omnibus Policy completed successfully
+Setting CWD to sla/xml for slaList.dtd.
+ File : /monit/IBM/tivoli/tbsm/etc/impactserver.log4j.properties added to the monitoring for changes
+Sourcing startup file: /monit/IBM/tivoli/tbsm/etc/scriptedAPIStartup.bsh
+Welcome to the RAD Shell.
+Enter help(); for help and exit(); to exit.
+BeanShell 1.3b2 - by Pat Niemeyer (pat@pat.net)
+radshell> invalidateServiceName() - Service instance id for [BANCOESTADO] is [25936].
+radshell> 
