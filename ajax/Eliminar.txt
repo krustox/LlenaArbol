@@ -324,3 +324,15 @@ Thursday 28th of December 2017 11:10:01 AM 172.17.204.238
 delete from "servicios"."producto" where "nombre_segmento" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS' AND "nombre_producto" = 'MOBILE_PAGOS_MOVILES_EXPERIENCIA_USUARIA_PAGOS_MOVILES_PERSONAS_PAGOS'
 Thursday 28th of December 2017 11:10:01 AM 172.17.204.238 
 Se ha eliminado el registro
+Tuesday 20th of February 2018 10:53:12 AM ::1 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'WEB_BANCA_EXPERIENCIA_USUARIA_CENTRO_MICROEMPRESA_CUENTA_DE_AHORRO_CONSULTA_DE_SALDO' AND "nombre_operacion" = 'R1SERV06_-_DESPLIEGUE_DE_LA_TRANSACCION_DESDE_MENU'
+Tuesday 20th of February 2018 10:53:27 AM ::1 
+delete from "servicios"."operacion" where "nombre_transaccion" = 'WEB_BANCA_EXPERIENCIA_USUARIA_CENTRO_MICROEMPRESA_CUENTA_DE_AHORRO_CONSULTA_DE_SALDO' AND "nombre_operacion" = 'R1SERV06_-_CARGA_DEL_BROWSER'
+Tuesday 20th of February 2018 10:55:27 AM ::1 
+delete from "servicios"."holding" where "nombre_holding" = '' AND "display_holding" = ''
+Tuesday 20th of February 2018 10:55:28 AM ::1 
+Se ha eliminado el registro
+Tuesday 20th of February 2018 10:58:41 AM ::1 
+delete from "servicios"."holding" where "nombre_holding" = '' AND "display_holding" = ''
+Tuesday 20th of February 2018 10:58:41 AM ::1 
+Se ha eliminado el registro

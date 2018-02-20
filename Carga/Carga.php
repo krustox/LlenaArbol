@@ -4,14 +4,23 @@
 	<body>
 		<div id="wrapper">
 			<?php include('../header.php');?>
+			<?php
+				if(isset($_GET['ok'])){
+			    	if($_GET['ok'] == 1) {
+			        	echo "<script type='text/javascript'>alert('Se ha realizado la operacion con exito')</script>";
+			      	}else{
+			        	echo "<script type='text/javascript'>alert('Hubo un error al realizar la operación de carga masiva, esto puede deberse a que ya existían en la base de datos algunos de los registros')</script>";
+			    	}
+				}
+			?>
 			<div id="container">
 			<h2>Carga Masiva</h2>
 
 			<div class="formularios">
-				<form action="Cargar.php" method="post" enctype="multipart/form-data"> 
-   				<input name="userfile" type="file"> 
-   				<br> 
-   				<input type="submit" value="Enviar"> 
+				<form action="Cargar.php" method="post" enctype="multipart/form-data">
+   				<input name="userfile" type="file">
+   				<br>
+   				<input type="submit" value="Enviar">
 				</form>
 			</div>
 			</div>

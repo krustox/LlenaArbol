@@ -19,6 +19,6 @@
 		<li><a href="/LlenarArbol/Producto/Producto.php">Producto</a></li>
 		<li><a href="/LlenarArbol/Transaccion/Transaccion.php">Transaccion</a></li>
 		<li><a href="/LlenarArbol/Operacion/Operacion.php">Operacion</a></li>
-		<li><a class="hide" href="/LlenarArbol/Carga/Carga.php">Carga Masiva</a></li>
+		<li><a href="/LlenarArbol/Carga/Carga.php">Carga Masiva</a></li>
 	</ul>
 </nav>

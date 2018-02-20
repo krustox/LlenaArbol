@@ -1,63 +1,63 @@
-CREATE TABLE "servicios"."holding"
+CREATE TABLE "servicios"."holding"(
 "nombre_holding" VARCHAR(500) NOT NULL,
-"display_holding" VARCHAR(500) NOT NULL;
-CREATE TABLE "servicios"."empresa"
+"display_holding" VARCHAR(500) NOT NULL);
+CREATE TABLE "servicios"."empresa" (
 "nombre_holding" VARCHAR(500) NOT NULL,
 "nombre_empresa" VARCHAR(500) NOT NULL,
-"display_empresa" VARCHAR(500) NOT NULL;
-CREATE TABLE "servicios"."canal"
+"display_empresa" VARCHAR(500) NOT NULL);
+CREATE TABLE "servicios"."canal"(
 "nombre_empresa" VARCHAR(500) NOT NULL,
 "nombre_canal" VARCHAR(500) NOT NULL,
-"display_canal" VARCHAR(500) NOT NULL;
-CREATE TABLE "servicios"."servicio"
+"display_canal" VARCHAR(500) NOT NULL);
+CREATE TABLE "servicios"."servicio"(
 "nombre_canal" VARCHAR(500) NOT NULL,
 "nombre_servicio" VARCHAR(500) NOT NULL,
-"display_servicio" VARCHAR(500) NOT NULL;
-CREATE TABLE "servicios"."tipo_servicio"
+"display_servicio" VARCHAR(500) NOT NULL);
+CREATE TABLE "servicios"."tipo_servicio"(
 "nombre_servicio" VARCHAR(500) NOT NULL,
 "nombre_tipo_servicio" VARCHAR(500) NOT NULL,
-"display_tipo_servicio" VARCHAR(500) NOT NULL;
-CREATE TABLE "servicios"."subservicio"
+"display_tipo_servicio" VARCHAR(500) NOT NULL);
+CREATE TABLE "servicios"."subservicio"(
 "nombre_tipo_servicio" VARCHAR(500) NOT NULL,
 "nombre_subservicio" VARCHAR(500) NOT NULL,
-"display_subservicio" VARCHAR(500) NOT NULL;
-CREATE TABLE "servicios"."site"
+"display_subservicio" VARCHAR(500) NOT NULL);
+CREATE TABLE "servicios"."site"(
 "nombre_subservicio" VARCHAR(500) NOT NULL,
 "nombre_site" VARCHAR(500) NOT NULL,
-"display_site" VARCHAR(500) NOT NULL;
-CREATE TABLE "servicios"."componente"
+"display_site" VARCHAR(500) NOT NULL);
+CREATE TABLE "servicios"."componente"(
 "nombre_site" VARCHAR(500) NOT NULL,
 "nombre_componente" VARCHAR(500) NOT NULL,
-"display_componente" VARCHAR(500) NOT NULL;
-CREATE TABLE "servicios"."subcomponente"
+"display_componente" VARCHAR(500) NOT NULL);
+CREATE TABLE "servicios"."subcomponente"(
 "nombre_componente" VARCHAR(500) NOT NULL,
 "nombre_subcomponente" VARCHAR(500) NOT NULL,
-"display_subcomponente" VARCHAR(500) NOT NULL;
-CREATE TABLE "servicios"."elemento"
+"display_subcomponente" VARCHAR(500) NOT NULL);
+CREATE TABLE "servicios"."elemento"(
 "nombre_subcomponente" VARCHAR(500) NOT NULL,
 "nombre_elemento" VARCHAR(500) NOT NULL,
-"display_elemento" VARCHAR(500) NOT NULL;
+"display_elemento" VARCHAR(500) NOT NULL);
 
-CREATE TABLE "servicios"."agrupacion"
+CREATE TABLE "servicios"."agrupacion"(
 "nombre_tipo_servicio" VARCHAR(500) NOT NULL,
 "nombre_agrupacion" VARCHAR(500) NOT NULL,
-"display_agrupacion" VARCHAR(500) NOT NULL;
-CREATE TABLE "servicios"."segmento"
+"display_agrupacion" VARCHAR(500) NOT NULL);
+CREATE TABLE "servicios"."segmento"(
 "nombre_agrupacion" VARCHAR(500) NOT NULL,
 "nombre_segmento" VARCHAR(500) NOT NULL,
-"display_segmento" VARCHAR(500) NOT NULL;
-CREATE TABLE "servicios"."producto"
+"display_segmento" VARCHAR(500) NOT NULL);
+CREATE TABLE "servicios"."producto"(
 "nombre_segmento" VARCHAR(500) NOT NULL,
 "nombre_producto" VARCHAR(500) NOT NULL,
-"display_producto" VARCHAR(500) NOT NULL;
-CREATE TABLE "servicios"."transaccion"
+"display_producto" VARCHAR(500) NOT NULL);
+CREATE TABLE "servicios"."transaccion"(
 "nombre_producto" VARCHAR(500) NOT NULL,
 "nombre_transaccion" VARCHAR(500) NOT NULL,
-"display_transaccion" VARCHAR(500) NOT NULL;
-CREATE TABLE "servicios"."operacion"
+"display_transaccion" VARCHAR(500) NOT NULL);
+CREATE TABLE "servicios"."operacion"(
 "nombre_transaccion" VARCHAR(500) NOT NULL,
 "nombre_operacion" VARCHAR(500) NOT NULL,
-"display_operacion" VARCHAR(500) NOT NULL;
+"display_operacion" VARCHAR(500) NOT NULL);
 
 
 GRANT ALTER ON TABLE "servicios"."agrupacion" TO PUBLIC WITH GRANT OPTION;

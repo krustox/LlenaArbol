@@ -1,18 +1,19 @@
 <?php
 include('../Config/connection.php');
 include('../Archivo.php');
-//datos del arhivo 
-$nombre_archivo = $_FILES['userfile']['name']; 
-$tipo_archivo = $_FILES['userfile']['type']; 
-$tamano_archivo = $_FILES['userfile']['size']; 
-if (move_uploaded_file($_FILES['userfile']['tmp_name'], $nombre_archivo)){ 
-   	echo "El archivo ha sido cargado correctamente."; 
-}else{ 
-   	echo "Ocurrió algún error al subir el fichero. No pudo guardarse."; 
-}  
-$fp = fopen($nombre_archivo, "r");
+//datos del arhivo
+error_reporting(0);
+ini_set('display_errors', 0);
+$extra = 'Carga.php?ok=1';
+$nombre_archivo = $_FILES['userfile']['name'];
+$tipo_archivo = $_FILES['userfile']['type'];
+$tamano_archivo = $_FILES['userfile']['size'];
+if (move_uploaded_file($_FILES['userfile']['tmp_name'], $nombre_archivo)){
+   	echo "El archivo ha sido cargado correctamente.";
+    $fp = fopen($nombre_archivo, "r");
 while(!feof($fp)) {
-$linea = fgets($fp);
+  $linea = fgets($fp);
+  if($linea == ""){break;}
 	$dato= "";
 	$insert = explode(",",$linea);
 	$tam = sizeof($insert);
@@ -20,7 +21,7 @@ $linea = fgets($fp);
 	$index = 0;
 	$tipo = "";
 	if ($conn_resource) {
-		while ($tam > 0){			
+		while ($tam > 0){
 			$tam = $tam - 1;
 			$display = trim($insert[$index]);
 			$nombre = strtoupper(str_replace(" ", "_", $display));
@@ -48,7 +49,8 @@ $linea = fgets($fp);
 										escribir("holding_OK", $query ." OK");
 									}else{
 										escribir("holding_error", $query ." " . db2_stmt_errormsg() );
-									}
+                    $extra = 'Carga.php?ok=0';
+                  }
 									$dato= $nombre;
 								}
 							}
@@ -80,7 +82,8 @@ $linea = fgets($fp);
 										escribir("empresa_OK", $query ." OK");
 									}else{
 										escribir("empresa_error", $query ." ". db2_stmt_errormsg());
-									}
+                    $extra = 'Carga.php?ok=0';
+                  }
 									$dato = $nombre;
 								}
 							}
@@ -112,6 +115,7 @@ $linea = fgets($fp);
 										escribir("canal_OK", $query ." OK");
 									}else{
 										escribir("canal_error", $query ." " . db2_stmt_errormsg() );
+                    $extra = 'Carga.php?ok=0';
 									}
 									$dato = $nombre;
 								}
@@ -145,6 +149,7 @@ $linea = fgets($fp);
 										escribir("servicio_OK", $query ." OK");
 									}else{
 										escribir("servicio_error", $query ." " . db2_stmt_errormsg() );
+                    $extra = 'Carga.php?ok=0';
 									}
 									$dato = $nombre;
 								}
@@ -179,6 +184,7 @@ $linea = fgets($fp);
 										escribir("tipo_OK", $query ." OK");
 									}else{
 										escribir("tipo_error", $query ." " . db2_stmt_errormsg() );
+                    $extra = 'Carga.php?ok=0';
 									}
 									$dato = $nombre;
 								}
@@ -204,7 +210,7 @@ $linea = fgets($fp);
 									$result = db2_exec($conn_resource, $query1);
 									$row = db2_fetch_array($result);
 									$dato =$row[1];
-								}else{	
+								}else{
 									$query= "INSERT INTO \"servicios\".\"subservicio\" VALUES ('$dato','$nombre','$display')";
 									$resp = db2_prepare($conn_resource, $query);
 									if($resp){
@@ -213,6 +219,7 @@ $linea = fgets($fp);
 											escribir("subservicio_OK", $query ." OK");
 										}else{
 											escribir("subservicio_error", $query ." " . db2_stmt_errormsg() );
+                      $extra = 'Carga.php?ok=0';
 										}
 										$dato = $nombre;
 									}
@@ -234,7 +241,7 @@ $linea = fgets($fp);
 									$result = db2_exec($conn_resource, $query1);
 									$row = db2_fetch_array($result);
 									$dato = $row[1];
-								}else{	
+								}else{
 									$query= "INSERT INTO \"servicios\".\"agrupacion\" VALUES ('$dato','$nombre','$display')";
 									$resp = db2_prepare($conn_resource, $query);
 									if($resp){
@@ -243,6 +250,7 @@ $linea = fgets($fp);
 											escribir("agrupacion_OK", $query ." OK");
 										}else{
 											escribir("agrupacion_error", $query ." " . db2_stmt_errormsg() );
+                      $extra = 'Carga.php?ok=0';
 										}
 										$dato = $nombre;
 									}
@@ -270,7 +278,7 @@ $linea = fgets($fp);
 								$row = db2_fetch_array($result);
 								$dato = $row[1];
 							}else{
-								
+
 								$query= "INSERT INTO \"servicios\".\"site\" VALUES ('$dato','$nombre','$display')";
 								$resp = db2_prepare($conn_resource, $query);
 								if($resp){
@@ -279,6 +287,7 @@ $linea = fgets($fp);
 										escribir("site_OK", $query ." OK");
 									}else{
 										escribir("site_error", $query ." " . db2_stmt_errormsg() );
+                    $extra = 'Carga.php?ok=0';
 									}
 									$dato = $nombre;
 								}
@@ -301,7 +310,7 @@ $linea = fgets($fp);
 								$row = db2_fetch_array($result);
 								$dato = $row[1];
 							}else{
-								
+
 								$query= "INSERT INTO \"servicios\".\"segmento\" VALUES ('$dato','$nombre','$display')";
 								$resp = db2_prepare($conn_resource, $query);
 								if($resp){
@@ -310,6 +319,7 @@ $linea = fgets($fp);
 										escribir("segmento_OK", $query ." OK");
 									}else{
 										escribir("segmento_error", $query ." " . db2_stmt_errormsg() );
+                    $extra = 'Carga.php?ok=0';
 									}
 									$dato = $nombre;
 								}
@@ -337,7 +347,7 @@ $linea = fgets($fp);
 								$row = db2_fetch_array($result);
 								$dato = $row[1];
 							}else{
-								
+
 								$query= "INSERT INTO \"servicios\".\"componente\" VALUES ('$dato','$nombre','$display')";
 								$resp = db2_prepare($conn_resource, $query);
 								if($resp){
@@ -346,6 +356,7 @@ $linea = fgets($fp);
 										escribir("componente_OK", $query ." OK");
 									}else{
 										escribir("componente_error", $query ." " . db2_stmt_errormsg() );
+                    $extra = 'Carga.php?ok=0';
 									}
 									$dato = $nombre;
 								}
@@ -368,7 +379,7 @@ $linea = fgets($fp);
 								$row = db2_fetch_array($result);
 								$dato = $row[1];
 							}else{
-								
+
 								$query= "INSERT INTO \"servicios\".\"producto\" VALUES ('$dato','$nombre','$display')";
 								$resp = db2_prepare($conn_resource, $query);
 								if($resp){
@@ -377,6 +388,7 @@ $linea = fgets($fp);
 										escribir("producto_OK", $query ." OK");
 									}else{
 										escribir("producto_error", $query ." " . db2_stmt_errormsg() );
+                    $extra = 'Carga.php?ok=0';
 									}
 									$dato = $nombre;
 								}
@@ -404,7 +416,7 @@ $linea = fgets($fp);
 								$row = db2_fetch_array($result);
 								$dato = $row[1];
 							}else{
-								
+
 								$query= "INSERT INTO \"servicios\".\"subcomponente\" VALUES ('$dato','$nombre','$display')";
 								$resp = db2_prepare($conn_resource, $query);
 								if($resp){
@@ -413,6 +425,7 @@ $linea = fgets($fp);
 										escribir("subcomponente_OK", $query ." OK");
 									}else{
 										escribir("subcomponente_error", $query ." " . db2_stmt_errormsg() );
+                    $extra = 'Carga.php?ok=0';
 									}
 									$dato = $nombre;
 								}
@@ -435,7 +448,7 @@ $linea = fgets($fp);
 								$row = db2_fetch_array($result);
 								$dato = $row[1];
 							}else{
-								
+
 								$query= "INSERT INTO \"servicios\".\"transaccion\" VALUES ('$dato','$nombre','$display')";
 								$resp = db2_prepare($conn_resource, $query);
 								if($resp){
@@ -444,6 +457,7 @@ $linea = fgets($fp);
 										escribir("transaccion_OK", $query ." OK");
 									}else{
 										escribir("transaccion_error", $query ." " . db2_stmt_errormsg() );
+                    $extra = 'Carga.php?ok=0';
 									}
 									$dato = $nombre;
 								}
@@ -477,6 +491,7 @@ $linea = fgets($fp);
 										escribir("elemento_OK", $query ." OK");
 									}else{
 										escribir("elemento_error", $query ." " . db2_stmt_errormsg() );
+                    $extra = 'Carga.php?ok=0';
 									}
 						}else{
 							escribir("Error_Select",$query1 . " ". db2_stmt_errormsg());
@@ -488,6 +503,7 @@ $linea = fgets($fp);
 							$result = db2_exec($conn_resource, $query);
 							if(!$result){
 								escribir("operacion_Error", $query . " " .db2_stmt_errormsg());
+                $extra = 'Carga.php?ok=0';
 							}else{
 								escribir("operacion_OK", $query . " OK" );
 							}
@@ -501,6 +517,8 @@ $linea = fgets($fp);
 echo $linea . "<br />";
 }
 fclose($fp);
-$extra = 'Carga.php';
+}else{
+   	echo "Ocurrió algún error al subir el fichero. No pudo guardarse.";
+}
 header("Location: http://$host$uri/$extra");
 ?>

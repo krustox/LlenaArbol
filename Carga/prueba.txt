@@ -1,0 +1,4 @@
+Grupo BancoEstado,BancoEstado,WEB,Banca,Infraestructura,Capa de Datos,Morande,IDG,Tomcat,VS3K-IDG01,VS3K-IDG02,VS3K-IDG03,VS3K-IDG04,VS3K-IDG05,VS3K-IDG06
+Grupo BancoEstado,BancoEstado,WEB,Banca,Infraestructura,Capa,Morande,IDG,Tomcat,VS3K-IDG01,VS3K-IDG02,VS3K-IDG03,VS3K-IDG04,VS3K-IDG05,VS3K-IDG06
+Grupo BancoEstado,BancoEstado,WEB,Banca,Experiencia Usuaria,Norte,Persona,Cuenta Corriente,Consulta de Saldo,R1SERV06 - Carga del browser,R1SERV06 - Carga del menu y sus niveles
+Grupo BancoEstado,BancoEstado,WEB,Banca,Experiencia Usuaria,Centro,MicroEmpresa,Cuenta de Ahorro,Consulta de Saldo,R1SERV06 - Despliegue de la transaccion desde menu,R1SERV06 - Carga del browser
