@@ -8,6 +8,7 @@ $extra = 'Carga.php?ok=1';
 $nombre_archivo = $_FILES['userfile']['name'];
 $tipo_archivo = $_FILES['userfile']['type'];
 $tamano_archivo = $_FILES['userfile']['size'];
+if((strpos($nombre_archivo,"txt")) || (strpos($nombre_archivo,"csv")) ){
 if (move_uploaded_file($_FILES['userfile']['tmp_name'], $nombre_archivo)){
    	echo "El archivo ha sido cargado correctamente.";
     $fp = fopen($nombre_archivo, "r");
@@ -519,6 +520,10 @@ echo $linea . "<br />";
 fclose($fp);
 }else{
    	echo "Ocurrió algún error al subir el fichero. No pudo guardarse.";
+}
+}else{
+    $extra = 'Carga.php?ok=2';
+    escribir("Carga","Formato de archivo erroneo". $nombre_archivo);
 }
 header("Location: http://$host$uri/$extra");
 ?>
